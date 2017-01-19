@@ -1,0 +1,8 @@
+/images/*
+/application/includes/config.php
+/parsing/*
+/parsing_mail/*
+/sessions/*
+/logs/*
+/lib/*
+/sxd/*
