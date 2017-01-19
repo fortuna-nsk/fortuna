@@ -3,7 +3,6 @@
 /*
 podborka-arenda@mail.ru
 khyuiop12
-
 */
 
 header('Content-Type: text/html; charset=utf-8');
