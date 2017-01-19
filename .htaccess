@@ -1,0 +1,5 @@
+AddDefaultCharset UTF-8
+Options -Indexes
+RewriteEngine On
+#TURN ON VIEW SUBDIRS AS ROOTDIRS (включаем просмотр поддиректорий как главных директорий)
+RewriteRule  ^(images_tmce|downloaded_tmce|documents_tmce|media_tmce|other_tmce+)/(.*)$ /tmce4/uploads/$1/$2
